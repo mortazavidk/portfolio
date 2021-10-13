@@ -16,7 +16,7 @@ In this project a framework is desgined and implemeted for the efficient analysi
 - All framework's modules were implemented using Java and Python languages.
 - Improved the efficiency of the analysis up to 41%
 ![AWS Analysis pipelines](https://github.com/mortazavidk/portfolio/blob/main/images/BCframework.png)   
-# [Project 3: Analysing Big Data streams on promise](https://content.iospress.com/articles/intelligent-data-analysis/ida173691)
+# [Project 3: Analysing Big Data streams in cluster](https://content.iospress.com/articles/intelligent-data-analysis/ida173691)
 In this project a framework is desgined and implemeted for the efficient analysis of Big data stream using cluster resources.   
 - Improved the efficiency of the analysis up to 65%
 - A Distributed cluster of 32 computing nodes was implemented using Linux, Storm, Java and Python.
